@@ -1,4 +1,4 @@
-# heightpredictor
+# Height Predictor
 Height Predictor R code
 
 This is a R code for height predictor. It takes input height of parents, number of children and child position in the children. 
